@@ -124,6 +124,7 @@
   - 8.1 [严格选择加入分析](#81-严格选择加入分析)
 - 9 附录: CLI 框架
   - 9.1 [CLI 框架表](#91-cli-frameworks-table)
+- 10 Appendix: CLI educational resources
 
 ---
 
@@ -865,8 +866,10 @@ try {
 
 
 # 10 附录：CLI 教育资源
+
 * https://clig.dev/
 * https://primer.style/cli/getting-started/principles
+* [@simonplend](https://twitter.com/simonplend) and [@dolearning](https://twitter.com/dolearning/)'s [workshop on crafting human friendly CLIs](https://github.com/simonplend/workshop-crafting-human-friendly-clis)
 
 <!-- markdownlint-disable -->
 
